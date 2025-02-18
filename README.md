@@ -40,11 +40,21 @@
 📊 **Objective:** Analyzed Stack Overflow data using **Google BigQuery & SQL** for personalized recommendations.  
 🛠 **Tech:** SQL, Google BigQuery, Data Analysis, NLP  
 
-🔗 [Project Repository](#)
+🔗 [[Project Repository](https://github.com/shreyapbk0622/StackOverflow.git)]
 
 ---
 
-### **3️⃣ Cloud Automation & Kubernetes Optimization**  
+---
+
+### **3️⃣ Market Place Application**  
+📊 **Objective:** This project is a comprehensive Marketplace application. It allows users to explore multiple marketplaces, add reviews and ratings to products, and view the top-rated products across marketplaces. The application is designed with user interactivity and smooth performance in mind.
+🛠 **Tech:** PHP, .CSS, Docker and AWS  
+
+🔗 [[Project Repository](https://github.com/shreyapbk0622/MarketPlace_CoolDevs)]
+
+---
+
+### **4️⃣ Cloud Automation & Kubernetes Optimization**  
 🚀 **Objective:** Reduced **manual intervention by 100%** in Jenkins & Kubernetes deployment at Cisco.  
 🛠 **Tech:** AWS, Docker, Kubernetes, Jenkins, Terraform  
 
